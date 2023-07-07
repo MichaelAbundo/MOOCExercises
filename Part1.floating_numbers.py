@@ -1,0 +1,10 @@
+x = 27
+y = 15
+add=(x + y)
+print(int(x),"+",int(y), "=", add)
+subtract=(x - y)
+print(int(x),"-",int(y), "=", subtract)
+multiply=(x * y)
+print(int(x),"*",int(y), "=", multiply)
+divide=(x / y)
+print(int(x),"/",int(y), "=", divide)
